@@ -1,6 +1,6 @@
 # ProximaCare
 
-![presentation](/images/presentation.png)
+![presentation](images/presentation.png)
 
 ### About Project
 
